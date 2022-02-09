@@ -1,0 +1,10 @@
+GET  /api/expenses
+Host: localhost:3000
+
+# POST  /api/users/add
+# Host: localhost:3000
+# Content-Type: application/json
+
+# {
+#     "name": "John Wick"
+# }
